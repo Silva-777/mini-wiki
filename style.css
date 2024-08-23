@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: rgba(0, 34, 255, 0.366);
+}/*# sourceMappingURL=style.css.map */
